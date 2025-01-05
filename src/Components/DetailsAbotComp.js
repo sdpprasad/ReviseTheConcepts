@@ -1,0 +1,7 @@
+/*
+1.first.js   //pass the values throw props eaily  basic way
+2.passingprops  //we page thr different props at a time having different types values
+                // and also about passing list and access element in the list by using map function
+3. AcessArrayandObject  //access data from arrays and objects
+
+                */
