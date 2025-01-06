@@ -20,6 +20,7 @@ function App() {
       <AcessArrayandObject /> */}
       <BrowserRouter>
       {/* <First name="prasad..!"/> */}
+          <AcessArrayandObject />
           <Routes>
           <Route path="/"element={<First/>}/>
           <Route path="/AcessArrayandObject"element={<AcessArrayandObject/>}/>
