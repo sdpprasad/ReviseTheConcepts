@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReviseTheConcepts/static/css/main.ca67ef22.css",
+    "main.js": "/ReviseTheConcepts/static/js/main.8614e9f4.js",
+    "static/js/488.1222cbf1.chunk.js": "/ReviseTheConcepts/static/js/488.1222cbf1.chunk.js",
+    "index.html": "/ReviseTheConcepts/index.html",
+    "main.ca67ef22.css.map": "/ReviseTheConcepts/static/css/main.ca67ef22.css.map",
+    "main.8614e9f4.js.map": "/ReviseTheConcepts/static/js/main.8614e9f4.js.map",
+    "488.1222cbf1.chunk.js.map": "/ReviseTheConcepts/static/js/488.1222cbf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.8614e9f4.js"
+  ]
+}
