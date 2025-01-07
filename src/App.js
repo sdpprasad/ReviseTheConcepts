@@ -7,6 +7,8 @@ import EventUseState from './Components/Events/EventUseState';
 import First from "./Components/first";
 import PassingProps from "./Components/PassingProps";
 import AcessArrayandObject from  "./Components/AcessArrayandObject";
+import Form from './Components/Events/Form';
+// import Form from './Components/Events/Form';
 function App() {
   // const person= {
   //   name:'prasad',
@@ -21,18 +23,15 @@ function App() {
       <AcessArrayandObject /> */}
       <BrowserRouter>
       {/* <First name="prasad..!"/> */}
-<<<<<<< HEAD
           {/* <AcessArrayandObject/> */}
-=======
-          <AcessArrayandObject />
->>>>>>> f4a197f0b46b99f8c1ea399d8ba827ce1d2cefbe
           <Routes>
           <Route path="/"element={<First/>}/>
           <Route path="/AcessArrayandObject"element={<AcessArrayandObject/>}/>
           <Route path="/PassingProps"element={<PassingProps/>}/>
           <Route path="/EventUseState"element={<EventUseState/>}/>
+          <Route path="/Form"element={<Form/>}/>
 
-
+        
           </Routes>
       </BrowserRouter>
 
